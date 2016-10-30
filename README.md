@@ -1,2 +1,11 @@
 # gcc_script
-Pretend cpp is a scripting language
+
+Compile and run a single cpp file.
+
+Usage:
+
+    gcc_script <cpp file>
+
+Installation:
+
+    python3 setup.py install
